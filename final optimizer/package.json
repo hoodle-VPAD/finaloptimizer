@@ -26,4 +26,3 @@
   "build": "vite build && cp _redirects dist/_redirects",
   "preview": "vite preview"
 },
-// ...
