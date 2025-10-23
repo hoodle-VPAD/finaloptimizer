@@ -20,7 +20,7 @@
     "vite": "^6.2.0"
   }
 }
-// In your package.json
+
 "scripts": {
   "dev": "vite",
   "build": "vite build && cp _redirects dist/_redirects",
