@@ -1,0 +1,5 @@
+{
+  "name": "Hoodle Agent ",
+  "description": "An AI-powered application for real estate agents to generate concise, lead-focused, and SEO-optimized community pages using Gemini.",
+  "requestFramePermissions": []
+}
